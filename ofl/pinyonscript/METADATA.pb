@@ -1,5 +1,5 @@
 name: "Pinyon Script"
-designer: "Nicole Fally"
+designer: "Sorkin Type, Nicole Fally"
 license: "OFL"
 category: "HANDWRITING"
 date_added: "2011-10-12"
