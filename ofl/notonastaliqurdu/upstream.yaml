@@ -1,0 +1,6 @@
+archive: https://github.com/notofonts/nastaliq/releases/download/NotoNastaliqUrdu-v3.004/NotoNastaliqUrdu-v3.004.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  NotoNastaliqUrdu/full/slim-variable-ttf/NotoNastaliqUrdu[wght].ttf: NotoNastaliqUrdu[wght].ttf
+  NotoNastaliqUrdu/full/variable-ttf/NotoNastaliqUrdu[wght].ttf: NotoNastaliqUrdu[wght].ttf
